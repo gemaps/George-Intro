@@ -5,5 +5,5 @@ Welcome! My name is George and this is my public GitHub page with my works and p
 Ниже приведены ссылки на проекты, в которых я принимал участие:
 
 **2022 год:** 
-  1. https://oka.miigaik.ru/
-  2. https://dev.kartfak.ru/miigaik_plan/
+  1. https://oka.miigaik.ru/ (исполнитель-картограф, результаты представлялись на конференции СНН-2022)
+  2. https://dev.kartfak.ru/miigaik_plan/ (картографическое обеспечение — в 2023 году проект выносился на Акселератор в сфере пространственных данных в МИИГАиК, где стал победителем)
